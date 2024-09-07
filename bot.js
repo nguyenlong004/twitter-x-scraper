@@ -1,4 +1,4 @@
-import TelegramBot from "node-telegram-bot-api";
+import TelegramBot from "7010507524:AAFRjwEx8MOlY7XsCYv51pn7igATUDdlRlE";
 import { TwitterScraper } from "./scripts/scrape.js";
 import { publish } from "./scripts/publish.js";
 import fs from "fs";
